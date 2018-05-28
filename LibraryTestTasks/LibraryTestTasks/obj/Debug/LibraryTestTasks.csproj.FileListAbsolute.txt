@@ -1,0 +1,6 @@
+c:\users\user\source\repos\LibraryTestTasks\LibraryTestTasks\bin\Debug\LibraryTestTasks.dll
+c:\users\user\source\repos\LibraryTestTasks\LibraryTestTasks\bin\Debug\LibraryTestTasks.pdb
+c:\users\user\source\repos\LibraryTestTasks\LibraryTestTasks\obj\Debug\LibraryTestTasks.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\LibraryTestTasks\LibraryTestTasks\obj\Debug\LibraryTestTasks.dll
+c:\users\user\source\repos\LibraryTestTasks\LibraryTestTasks\obj\Debug\LibraryTestTasks.pdb
+c:\users\user\source\repos\LibraryTestTasks\LibraryTestTasks\obj\Debug\LibraryTestTasks.csprojAssemblyReference.cache
